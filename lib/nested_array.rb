@@ -38,7 +38,7 @@ def sorted_matrix
   #
   # ]
 
-    [CONVENTIONAL_PRODUCE.sort]
+    [CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort]
 
 end
 
